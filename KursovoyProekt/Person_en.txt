@@ -1,0 +1,8 @@
+Invalid number, try again:
+-Person Information-
+Name:
+Age:
+Enter your name:
+Enter age:
+Enter balance:
+Current balance:

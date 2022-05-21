@@ -1,0 +1,3 @@
+Number:
+Your phone may not have a SIM installed
+Operator:

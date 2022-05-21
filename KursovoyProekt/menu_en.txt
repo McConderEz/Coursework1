@@ -1,0 +1,14 @@
+-Choose an action-
+1)Create a citizen
+2)Choose a citizen
+(3-7)Auto addition to store
+3)Create Smartphone
+4)Create a feature phone
+5)Create a hybrid phone
+6)Create Case
+7)Create a SIM card
+8)Delete a citizen
+9)Delete a phone from the store
+0)Check product list of the store
+10)Check citizens list
+11)Exit

@@ -1,0 +1,17 @@
+Enter vendor's name:
+Enter model name:
+Vendor:
+Model:
+Phone information:
+No SIM card!
+We are connecting you with the subscriber, please wait...
+You are connected to the subscriber with the number
+Disconnection...
+The phone is turned off or airplane mode is on!
+Send a message to the subscriber, please wait...
+Message sent
+Message:
+The SIM card is already installed!
+SIM card is installed in the phone
+You don't have a SIM card
+SIM card seized

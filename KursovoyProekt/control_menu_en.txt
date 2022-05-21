@@ -1,0 +1,18 @@
+-Action List-
+0)Exit
+1)Insert SIM card
+2)Pull out the SIM card
+3)Call
+4)Send SMS
+5)Receive SMS
+6)View configuration
+7)Take a photo
+8)View list of photos
+9)Calculator
+10)Turn on / off the phone
+11)Find out the level of charge
+12)Charge your phone
+13)Flight mode
+14)View phone status
+15)Buy a product (phone, SIM card, case)
+16)Add money to the account

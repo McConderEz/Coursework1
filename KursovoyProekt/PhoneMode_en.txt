@@ -1,0 +1,14 @@
+Airplane mode is on!
+Airplane mode is off!
+The phone is turned off, it is impossible to turn on the flight mode!
+Phone status
+Charge level:
+Flight mode:
+On/off:
+The phone is on.
+Need to charge your phone!
+The phone is off.
+The phone is off, the charge is at zero!
+Phone charge level:
+Charging your phone, please wait!
+The phone is charged!

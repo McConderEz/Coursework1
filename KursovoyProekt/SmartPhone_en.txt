@@ -1,0 +1,20 @@
+Invalid number, try again:
+-Gallery-
+Phone dialing information missing
+Phone configuration:
+CPU:
+Enter RAM:
+Enter processor:
+Enter ROM:
+Smartphone is off!
+Smartphone memory is full!Do you want to delete one of the objects?y/n
+Enter index (0-15):
+Element
+removed!
+Enter image name:
+Photo taken!
+-Calculator-
+Enter x:
+Enter:
+Enter syringe(+,-,*,/):
+Wrong entry!

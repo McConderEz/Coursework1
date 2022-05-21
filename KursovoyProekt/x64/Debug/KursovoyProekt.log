@@ -1,0 +1,11 @@
+﻿  Civil.cpp
+  HybridPhone.cpp
+  KursovoyProekt.cpp
+C:\Users\fikra\Desktop\Лабы ООП и курсач(+ для гитхаба)\Курсовой проект Ver1.0\KursovoyProekt\KursovoyProekt\Shop.h(25,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MobilePhone.cpp
+  PushButtonPhone.cpp
+  Shop.cpp
+C:\Users\fikra\Desktop\Лабы ООП и курсач(+ для гитхаба)\Курсовой проект Ver1.0\KursovoyProekt\KursovoyProekt\Shop.h(25,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  SmartPhone.cpp
+  Создание кода...
+  KursovoyProekt.vcxproj -> C:\Users\fikra\Desktop\Лабы ООП и курсач(+ для гитхаба)\Курсовой проект Ver1.0\KursovoyProekt\x64\Debug\KursovoyProekt.exe

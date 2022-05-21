@@ -1,0 +1,9 @@
+Enter vendor
+Enter model
+Enter RAM
+Enter processor name
+Enter ROM
+Enter cover color
+Is armored(1-yes|0-no)
+Enter number
+Enter operator

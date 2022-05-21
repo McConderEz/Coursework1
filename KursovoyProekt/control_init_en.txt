@@ -1,0 +1,5 @@
+Enter number
+Enter your message
+Enter amount of money
+Incorrect input
+You don`t have a mobile phone

@@ -1,0 +1,6 @@
+Invalid number, try again:
+-Case Information-
+Colour:
+Reinforced:
+Enter case color:
+Is the cover reinforced?

@@ -1,0 +1,12 @@
+Civil added
+Enter the index
+Smartphone created
+Feature phone created
+Hybrid phone created
+Case created
+SIM card created
+Citizen removed
+Phone removed from store
+-List of civilians-
+This function doesn`t exist
+Citizens list is empty

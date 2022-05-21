@@ -1,0 +1,18 @@
+Invalid number, try again:
+1)Phones
+2)Cases
+3)SIM cards
+Phone purchased
+Insufficient funds
+Case purchased
+SIM card purchased
+Invalid input
+-Product List-
+[Phones]
+Price:
+[Cases]
+[SIM cards]
+Enter phone price:
+Product added to the list
+Enter the price of the cover:
+Enter the price of the SIM card:
